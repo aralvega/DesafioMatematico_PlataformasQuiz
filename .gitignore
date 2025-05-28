@@ -15,6 +15,7 @@ UserSettings/
 *.log
 
 # VS / VS Code / Rider
+.vs/
 .vscode/
 .idea/
 *.sln
